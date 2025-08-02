@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
-<h3 align="center">2nd Year CSE Student @ NIT Raipur | Passionate Developer | LeetCode Enthusiast</h3>
+<h3 align="center">3rd Year CSE Student @ NIT Raipur | Passionate Developer | LeetCode Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="sahilshaikh" />
@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 
 - 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**
 - 🔭 Working on **React + JavaScript projects**
-- 🏆 Preparing for **SDE Internships 2026**
-- 💡 Exploring **FinTech**, **DSA**, and **Open Source**
+- 💡 Exploring **DSA**, and **Open Source**
 - 💬 Ask me about **React, C++, Java, LeetCode problems**
-- ⚡ Fun fact: I love building cool UI and solving logic puzzles
 
 ---
 
@@ -40,28 +38,16 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilshaikh&show_icons=true&theme=tokyonight" alt="sahilshaikh" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshaikh&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
-
----
-
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-shaikh-357465258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="sahilshaikh10415@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/">
+  <a href="https://leetcode.com/u/sahilshaikh_10415/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
