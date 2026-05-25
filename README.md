@@ -1,58 +1,92 @@
-## Hi there 👋
+# Hi 👋, I'm Sahil Shaikh
 
-<!--
-**Sahil-Shaikh10415/Sahil-Shaikh10415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
-<h3 align="center">3rd Year CSE Student @ NIT Raipur | Passionate Developer | LeetCode Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="sahilshaikh" />
-</p>
+🎓 B.Tech CSE Student at National Institute of Technology Raipur  
+💻 Full Stack MERN Developer | Competitive Programmer  
+🚀 Passionate about Web Development, DSA, and Problem Solving  
 
 ---
 
-### 🧑‍💻 About Me:
+## 🌐 Connect With Me
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**
-- 🔭 Working on **React + JavaScript projects**
-- 💡 Exploring **DSA**, and **Open Source**
-- 💬 Ask me about **React, C++, Java, LeetCode problems**
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/)
+- 💻 GitHub: [GitHub Profile](https://github.com/)
+- ⚡ LeetCode: [LeetCode Profile](https://leetcode.com/)
+- 🏆 Codeforces: [Codeforces Profile](https://codeforces.com/)
 
 ---
 
-### 📫 Connect with me:
+# 💻 Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahil-shaikh-357465258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="sahilshaikh10415@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/sahilshaikh_10415/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+# 🚀 Projects
 
+## 💬 MERN Chat Application
+- Real-time chat application using MERN stack and Socket.io
+- JWT Authentication and secure messaging
+- Online/offline status and typing indicators
+- Cloudinary integration for media sharing
+- Dark/Light mode support
+
+### Tech Stack
+`NodeJS` `ExpressJS` `ReactJS` `MongoDB` `JWT` `Socket.io`
+
+---
+
+## 🍔 Foody-Zone Food Ordering Platform
+- Responsive food ordering web application
+- Dynamic menu filtering with optimized logic
+- Stateful cart system using React Hooks
+- Fully responsive UI using Flexbox & Grid
+
+### Tech Stack
+`HTML` `CSS` `JavaScript` `ReactJS`
+
+---
+
+# 🏆 Competitive Programming
+
+- 🔥 LeetCode Rating: **1857** (Knight)
+- ⚡ Codeforces Rating: **1237** (Pupil)
+
+---
+
+# 📚 Coursework
+
+- Data Structures & Algorithms
+- Operating Systems
+- DBMS
+- Computer Networks
+- OOPs
+- Software Engineering
+- Machine Learning
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&layout=compact)
+
+---
+
+⭐ From [Sahil Shaikh](https://github.com/YOUR_USERNAME)
