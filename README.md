@@ -42,50 +42,20 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 💬 MERN Chat Application  
-- Real-time chat application with JWT Authentication  
-- Live messaging using Socket.io  
-- Typing indicators, online/offline status, image sharing  
-- Persistent chat history with MongoDB  
-
-**Tech Stack:** Node.js, Express.js, React.js, MongoDB, Socket.io, JWT  
-
----
-
-### 🍔 Foody-Zone Food Ordering Platform  
-- Responsive food ordering web application  
-- Dynamic filtering & reusable UI components  
-- Cart functionality using React Hooks  
-- Optimized layouts using Flexbox & Grid  
-
-**Tech Stack:** React.js, JavaScript, HTML, CSS  
-
----
-
-## 🏆 Achievements  
-
-- 🥇 Global Rank **1663** among **26,000+ participants** in LeetCode Weekly Contest 478  
-- ⭐ LeetCode Max Rating: **1857 (Knight)**  
-- 🚀 Codeforces Max Rating: **1237 (Pupil)**  
-
----
-
 ## 📈 Competitive Programming Profiles  
 
-- 🔗 LeetCode: https://leetcode.com/your-username
-- 🔗 Codeforces: https://codeforces.com/profile/your-username
-- 🔗 CodeChef: https://www.codechef.com/users/your-username
+- 🔗 LeetCode: [https://leetcode.com/your-username](https://leetcode.com/u/sahilshaikh_10415/)
+- 🔗 Codeforces: https:[//codeforces.com/profile/your-username](https://codeforces.com/profile/sahil10415)
+- 🔗 CodeChef: [https://www.codechef.com/users/your-username](https://www.codechef.com/users/hearty_glow_67)
 
 ---
 
 ## 📫 Connect With Me  
 
 - 📧 Email: sahilshaikh10415@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 GitHub: https://github.com/your-github-username
-
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sahil-shaikh-357465258/)
+- 🌐 GitHub: [https://github.com/your-github-username
+](https://github.com/Sahil-Shaikh10415)
 ---
 
 ## 📊 GitHub Stats  
@@ -96,14 +66,3 @@
 
 ---
 
-## ✨ Fun Fact  
-
-```cpp
-while(!success) {
-    practice();
-    learn();
-    build();
-}
-```
-
-⭐ From [Sahil Shaikh](https://github.com/your-github-username)
