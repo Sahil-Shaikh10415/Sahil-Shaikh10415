@@ -1,75 +1,61 @@
-# Hi, I'm Sahil Shaikh 👋
+# 💫 Hi, I'm Sahil Shaikh
 
-I’m a **Computer Science and Engineering student at NIT Raipur** and a **full-stack web developer** who enjoys building practical, user-focused web applications.
-
-- 🌱 Currently exploring **MERN stack**, **real-time apps**, and **system design basics**
-- 💻 Strong in **React.js, Node.js, Express.js, MongoDB, and JavaScript**
-- 🚀 Interested in **DSA, competitive programming, and product building**
-- 📫 Reach me at: **sahilshaikh10415@gmail.com**
+> 💻 **Computer Science & Engineering Student | Full-Stack Web Developer | DSA Enthusiast**
 
 ---
 
-## 🚀 Tech Stack
+## ✨ About Me
 
-**Languages:** C++, JavaScript, SQL  
-**Frontend:** React.js, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, Postman, VS Code  
-**Concepts:** REST APIs, JWT Authentication, Socket.io  
+- 🎓 Studying at **National Institute of Technology Raipur**
+- 🌱 Learning and building with **MERN Stack**
+- 🚀 Interested in **Web Development, DSA, and Competitive Programming**
+- 📫 Reach me at **sahilshaikh10415@gmail.com**
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Tech Stack
 
-### MERN Chat Application
-A real-time chat app with JWT authentication and Socket.io live messaging.  
-
-**Highlights:**
-- Typing indicators
-- Online/offline presence
-- Image sharing
-- Persistent chat history  
-
-**Tech Stack:** Node.js, Express.js, React.js, MongoDB, Socket.io, JWT
+**Languages:** `C++` `JavaScript` `SQL`  
+**Frontend:** `React.js` `HTML` `CSS`  
+**Backend:** `Node.js` `Express.js`  
+**Database:** `MongoDB`  
+**Tools:** `Git` `GitHub` `Postman` `VS Code`  
+**Concepts:** `REST APIs` `JWT Authentication` `Socket.io`
 
 ---
 
-### Foody-Zone Food Ordering Platform
-A responsive food ordering web app built with reusable UI components and dynamic filtering.  
+## 🚀 Projects
 
-**Highlights:**
-- Cart functionality
-- React Hooks
-- Flexbox and Grid layouts
-- Responsive UI  
+### 🔹 MERN Chat Application
+- Real-time chat app with **JWT authentication** and **Socket.io**
+- Features: **typing indicators**, **online/offline presence**, **image sharing**, **persistent chat history**
+- Tech Stack: `Node.js` `Express.js` `React.js` `MongoDB` `Socket.io` `JWT`
 
-**Tech Stack:** HTML, CSS, JavaScript, React.js
+### 🔹 Foody-Zone Food Ordering Platform
+- Responsive food ordering web app with reusable UI components
+- Features: **cart functionality**, **dynamic filtering**, **responsive design**
+- Tech Stack: `HTML` `CSS` `JavaScript` `React.js`
 
 ---
 
 ## 💼 Experience
 
-### Web Developer — Rajbhasha, NIT Raipur
-📅 Jul 2024 – Jan 2025  
+### 🔸 Web Developer — Rajbhasha, NIT Raipur
+`Jul 2024 – Jan 2025`
+- Developed and deployed the **Avahan event platform** for 500+ students
+- Built reusable UI components and responsive layouts
 
-- Developed and deployed the **Avahan event platform** used by 500+ NIT Raipur students
-- Built reusable UI components and responsive layouts across devices
-
----
-
-### Technical Executive — Innovation Cell, Entrepreneurship Cell, NIT Raipur
-📅 Jul 2024 – Jul 2025  
-
+### 🔸 Technical Executive — Innovation Cell, Entrepreneurship Cell, NIT Raipur
+`Jul 2024 – Jul 2025`
 - Worked with the technical team to develop and maintain websites for entrepreneurship initiatives
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 LeetCode Global Rank **1663** among **26,000+** participants in Weekly Contest 478
-- ⚔️ LeetCode Max Rating: **1857 (Knight)**
-- 💡 Codeforces Max Rating: **1237 (Pupil)**
+- 🥇 **LeetCode Global Rank 1663** among **26,000+** participants in Weekly Contest 478
+- ⚡ **LeetCode Max Rating: 1857 (Knight)**
+- 🔥 **Codeforces Max Rating: 1237 (Pupil)**
 
 ---
 
@@ -83,21 +69,13 @@ A responsive food ordering web app built with reusable UI components and dynamic
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- LeetCode: https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
-- Codeforces: https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME
+- 🔗 GitHub: `YOUR_GITHUB_USERNAME`
+- 🔗 LinkedIn: `YOUR_LINKEDIN_USERNAME`
+- 🔗 LeetCode: `YOUR_LEETCODE_USERNAME`
+- 🔗 Codeforces: `YOUR_CODEFORCES_USERNAME`
 
 ---
 
-> “Building useful products, one project at a time.”
+> ✨ *Building useful products, one project at a time.*
