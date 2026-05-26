@@ -44,9 +44,9 @@
 
 ## 📈 Competitive Programming Profiles  
 
-- 🔗 LeetCode: [https://leetcode.com/your-username](https://leetcode.com/u/sahilshaikh_10415/)
-- 🔗 Codeforces: https:[//codeforces.com/profile/your-username](https://codeforces.com/profile/sahil10415)
-- 🔗 CodeChef: [https://www.codechef.com/users/your-username](https://www.codechef.com/users/hearty_glow_67)
+- 🔗 LeetCode: (https://leetcode.com/u/sahilshaikh_10415/)
+- 🔗 Codeforces: (https://codeforces.com/profile/sahil10415)
+- 🔗 CodeChef: (https://www.codechef.com/users/hearty_glow_67)
 
 ---
 
