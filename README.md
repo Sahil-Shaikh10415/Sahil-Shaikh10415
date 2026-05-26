@@ -53,16 +53,8 @@
 ## 📫 Connect With Me  
 
 - 📧 Email: sahilshaikh10415@gmail.com  
-- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sahil-shaikh-357465258/)
-- 🌐 GitHub: [https://github.com/your-github-username
-](https://github.com/Sahil-Shaikh10415)
+- 💼 LinkedIn: (https://www.linkedin.com/in/sahil-shaikh-357465258/)
+- 🌐 GitHub:(https://github.com/Sahil-Shaikh10415)
 ---
 
-## 📊 GitHub Stats  
-
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
 
